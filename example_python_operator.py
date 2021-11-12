@@ -75,7 +75,7 @@ with DAG(
 
         from colorama import Back, Fore, Style
 
-        print(Fore.RED + 'some red text')
+        print(Fore.RED + 'some red text here')
         print(Back.GREEN + 'and with a green background')
         print(Style.DIM + 'and in dim text')
         print(Style.RESET_ALL)
